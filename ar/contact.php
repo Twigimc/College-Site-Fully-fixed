@@ -60,7 +60,7 @@ else {
   <head>
   <meta name="keywords" content="الفارابي, كلية الفارابي الجامعة, جامعة الفارابي">
 <meta name="description" content="كلية الفارابي الجامعة هي كلية اهلية تهدف الى تقديم تعليم مثالي">
-<meta property="og:image" content="/images/Index Page Design.jpg">
+<meta property="og:image" content="/images/Index Page Design.png">
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -97,7 +97,7 @@ else {
         <a class="nav__brand__anker" href="../ar/index.php"
           ><img
             class="nav__brand"
-            src="/images/Index Page Design.jpg"
+            src="/images/Index Page Design.png"
             alt="" /></a
         ><svg class="icon icon--white nav__toggler toggle">
           <use xlink:href="/images/sprite.svg#toggler"></use>
@@ -298,7 +298,7 @@ else {
           </ul>
         </section>
         <section class="footer__section footer__brand">
-          <img src="/images/Index Page Design.jpg" alt="" />
+          <img src="/images/Index Page Design.png" alt="" />
           <p class="footer__copyright">
             جميع الحقوق محفوظة 2021 إبراهيم، حسام وزياد
           </p>

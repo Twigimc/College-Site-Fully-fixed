@@ -241,7 +241,7 @@ a {
   align-items: center;
 }
 .nav__brand {
-  max-width: 90px;
+  max-width: 60px;
 }
 .nav__brand__anker {
   display: contents;
@@ -293,7 +293,7 @@ a {
     padding: 1rem 1.5rem;
   }
   .nav__brand {
-    max-width: 130px;
+    max-width: 100px;
     padding-left: 3rem;
   }
 }
@@ -302,7 +302,7 @@ a {
     padding: 1rem 3rem;
   }
   .nav__brand {
-    max-width: 170px;
+    max-width: 110px;
     padding-left: 3rem;
   }
 }

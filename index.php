@@ -104,7 +104,7 @@ if(move_uploaded_file($_FILES["file"]["tmp_name"][$i],'upload/'.$filename)){
 <html lang="en">
   <head>
 <meta name="keywords" content="Al-Farabi, Al-Farabi University, Farabi, Iraqi University, Iraqi College">
-<meta property="og:image" content="/images/Index Page Design.jpg">
+<meta property="og:image" content="/images/Index Page Design.png">
 
     <meta name="description" content="Al-Farabi University College is a private college that aims to give perfect education">
     <meta charset="UTF-8" />
@@ -138,7 +138,7 @@ if(move_uploaded_file($_FILES["file"]["tmp_name"][$i],'upload/'.$filename)){
         <a class="nav__brand__anker" href="index.php"
           ><img
             class="nav__brand"
-            src="/images/Index Page Design.jpg"
+            src="/images/Index Page Design.png"
             alt="" /></a
         ><svg class="icon icon--white nav__toggler toggle">
           <use xlink:href="images/sprite.svg#toggler"></use>
@@ -663,7 +663,7 @@ if(move_uploaded_file($_FILES["file"]["tmp_name"][$i],'upload/'.$filename)){
           </ul>
         </section>
         <section class="footer__section footer__brand">
-          <img src="/images/Index Page Design.jpg" alt="" />
+          <img src="/images/Index Page Design.png" alt="" />
           <p class="footer__copyright">
             Copyright 2021 Hosam , Ibrahim and Ziad
           </p>
